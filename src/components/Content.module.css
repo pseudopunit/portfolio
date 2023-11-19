@@ -1,0 +1,23 @@
+.container {
+  padding: 6vw;
+  display: flex;
+  flex-direction: column;
+  gap: 10vh;
+}
+
+.carousel {
+  height: 30vh;
+  border: 2px solid beige;
+  border-radius: 8px;
+  color: beige;
+}
+
+.categoryContainer {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+.icon {
+  font-size: 36px;
+}
